@@ -21,6 +21,10 @@
  	Password : <br>
  	<input type="password" name="Password">
  	<br>
+	
+	Confirm Password : <br>
+ 	<input type="password" name="Password">
+ 	<br>
  	Gender : <br>
  	<input type="radio" name="gender" value="Male">
  	<input type="radio" name="gender" value="Female">
